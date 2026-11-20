@@ -768,7 +768,7 @@
       {
         "modelo": "POS80",
         "versao": "11.3.0.0",
-        "observacao": null,
+        "observacao": "Driver genérico de todas as impressoras, funciona com mini-printer",
         "download": {
           "driver_x86": "https://raw.githubusercontent.com/viniciusnxar/CW_Thermal_Printers/main/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
           "driver_x64": null,
@@ -1105,7 +1105,18 @@
       {
         "modelo": "MDK-080",
         "versao": null,
-        "observacao": null,
+        "observacao": "POS80 Driver 2024",
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "https://raw.githubusercontent.com/viniciusnxar/CW_Thermal_Printers/main/Tomate/posprinter.POS80.driver.2024.01.11.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MDK-082",
+        "versao": null,
+        "observacao": "POS80 Driver 2024",
         "download": {
           "driver_x86": null,
           "driver_x64": "https://raw.githubusercontent.com/viniciusnxar/CW_Thermal_Printers/main/Tomate/posprinter.POS80.driver.2024.01.11.1.exe",
