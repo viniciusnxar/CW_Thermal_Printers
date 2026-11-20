@@ -1101,6 +1101,19 @@
         }
       }
     ],
+    "Tomate": [
+      {
+        "modelo": "MDK-080",
+        "versao": null,
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "https://raw.githubusercontent.com/viniciusnxar/CW_Thermal_Printers/main/Tomate/posprinter.POS80.driver.2024.01.11.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
     "Waytec": [
       {
         "modelo": "WP-50",
