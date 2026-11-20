@@ -1112,6 +1112,17 @@
           "utility": null,
           "manual": null
         }
+      },
+      {
+        "modelo": "MDK-581",
+        "versao": null,
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "https://raw.githubusercontent.com/viniciusnxar/CW_Thermal_Printers/main/Tomate/MDK-58%20Driver%20V1.1.exe",
+          "utility": null,
+          "manual": null
+        }
       }
     ],
     "Waytec": [
